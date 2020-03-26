@@ -1,0 +1,54 @@
+***NAO REPLICAR SEM AUTORIZACAO***
+SISTEMA: VENDAS CONSIGNADAS.
+VERSAO: 2.0
+DESENVOLVIDO POR: NOVUS TECNOLOGIA.
+E-MAIL: contato@novustec.com.br
+SITE: WWW.NOVUSTEC.COM.BR
+BY: FERNANDO SCHROEDER
+***NAO REPLICAR SEM AUTORIZACAO***
+____________________________________________
+**UTILIZACAO**
+1) EXECUTAR O "usbwebserver.exe" COMO ADMINISTRADOR.
+
+2) NO NAVEGADOR INFORMAR O ENDERECO "localhost"
+____________________________________________
+**USUARIO E SENHA**
+USUARIO: teste@novustec.com.br
+SENHA: teste
+**APOS CRIAR USUARIO ADMINISTRADOR DELETEAR O TESTE**
+____________________________________________
+Sistema Desenvolvido em:
+PHP
+Bootstrap
+JavaScript
+CSS
+HTML
+Mysql
+____________________________________________
+Módulos:
+Dashboard(gráficos e informações)
+Cadastro de Produtos
+Gerenciamento de Produtos
+Cadastro de Vendas
+Gerenciamento de Vendas
+Cadastro de Trocas
+Gerenciamento de Trocas
+Cadastro de Pagamentos
+Gerenciamento de Pagamentos
+Cadastro de Devoluções
+Gerenciamento de Devoluções
+Emissão de Relatórios
+____________________________________________
+Caracteristicas:
+Responsivo(se ajusta automaticamente ao celular, computador, tablets entre outos).
+Sistema é enviado via e-mail/download.
+Facil aprendizagem.
+Sistema web, pode ser configurado localmente ou acesso remoto.
+Sistema leve e clean.
+Auxilio na instalação.
+Sistema com usuario e senha, 100% seguro. 
+Pré-requesitos:
+PHP5 +
+Apache
+Mysql
+____________________________________________

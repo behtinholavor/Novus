@@ -1,0 +1,17 @@
+         .resposta
+         {
+         border: 1px solid rgb(255,0,0);
+         }
+
+                     .not-active {
+            pointer-events: none;
+            cursor: default;
+            color: #C17A78;
+            }
+            .not-active2 {
+            pointer-events: none;
+            cursor: default;
+            color: #4f93ce;
+            }
+
+
